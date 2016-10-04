@@ -1,1 +1,3 @@
-# Bab 1. Mengenal LaTeX
+# Bab 1: Mengenal LaTeX
+
+
