@@ -1,1 +1,3 @@
-After install GitNote (3.0.3)
+
+GitNote (3.0.3) can't login with username (?), it must email.
+
